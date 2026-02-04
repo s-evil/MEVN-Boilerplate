@@ -79,8 +79,6 @@ That's all. It will run these scripts => `(cd server; yarn dev;) & (cd admin; ya
 
 ### 📷 Screenshots
 
-https://github.com/mustafacagri/mevn-boilerplate/assets/7488394/aca14f0a-af96-4019-8be2-ad9d13f3e9d7
-
 `The video has been added on September 24, 2023`
 
 <img width="505" alt="MEVN Stack Boilerplate Admin Dashboard Vuetify Vuexy" src="https://user-images.githubusercontent.com/7488394/210179097-002b793f-91b7-46b5-ad6c-3a7f8705e09b.png">
